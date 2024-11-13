@@ -1,4 +1,4 @@
-// src/components/Survey.jsx
+
 import React, { useState, useEffect } from 'react';
 
 const Survey = ({ question, onNext, onPrevious, currentIndex, totalQuestions, onSubmit }) => {
