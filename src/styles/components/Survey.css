@@ -1,0 +1,29 @@
+/* Survey component styles */
+.survey-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.survey-question {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.survey-options {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.survey-options button {
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+
+.survey-options button:hover {
+  background-color: #e0e0e0;
+}

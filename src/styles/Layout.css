@@ -1,0 +1,39 @@
+/* layout.css */
+.survey-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.rating-options button,
+.prev-button,
+.next-button,
+.submit-button {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+
+.rating-options button:hover,
+.prev-button:hover,
+.next-button:hover,
+.submit-button:hover {
+  background-color: #e0e0e0;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}

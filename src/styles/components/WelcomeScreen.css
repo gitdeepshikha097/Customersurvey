@@ -1,0 +1,40 @@
+/* WelcomeScreen component styles */
+.welcome-container {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+}
+
+.welcome-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.welcome-button:hover {
+  background-color: #45a049;
+}
+/* WelcomeScreen component styles */
+.welcome-container {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+}
+
+.welcome-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.welcome-button:hover {
+  background-color: #45a049;
+}
